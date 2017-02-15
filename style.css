@@ -1,0 +1,70 @@
+*
+
+body{
+	margin-left: 15%; text-align: left;
+}
+
+.img{
+	border: double;
+	height: 200px;
+	 width: 200px;
+	 display:block; margin:15px auto 25px;
+}
+figcaption{
+	text-align: left; /* Выравнивание по центру */
+    font-size: 100%; /* Размер шрифта */
+    margin-top: 0; /* Отступ сверху */
+    margin-bottom: 5px; /* Отступ снизу */
+    color: #666;
+
+}
+
+li{
+	text-align: left; /* Выравнивание по центру */
+	font-size: 100%; /* Размер шрифта */
+    margin-top: 0; /* Отступ сверху */
+    margin-bottom: 5px; /* Отступ снизу */
+    color: #666;	
+
+
+}
+.main{
+	width: 600px; 
+	font-size: 100%; /* Размер шрифта */
+    border-bottom: 2px solid maroon; /* Параметры линии под текстом */
+    font-weight: normal; /* Убираем жирное начертание */
+    padding-bottom: 5px; /* Расстояние от текста до линии */
+
+}
+
+.second{
+	width: 600px; 
+	font-size: 100%; /* Размер шрифта */
+    border-bottom: 2px solid maroon; /* Параметры линии под текстом */
+    font-weight: normal; /* Убираем жирное начертание */
+    padding-bottom: 5px; /* Расстояние от текста до линии */	
+}
+
+.third{
+	width: 600px; 
+	font-size: 100%; /* Размер шрифта */
+    border-bottom: 2px solid maroon; /* Параметры линии под текстом */
+    font-weight: normal; /* Убираем жирное начертание */
+    padding-bottom: 5px; /* Расстояние от текста до линии */	
+    list-style-type: none; /* Убираем маркеры */
+
+}
+
+.forth{
+	list-style-type: none; /* Убираем маркеры */
+	width: 600px; 
+	font-size: 100%; /* Размер шрифта */
+    border-bottom: 2px solid maroon; /* Параметры линии под текстом */
+    font-weight: normal; /* Убираем жирное начертание */
+    padding-bottom: 5px; /* Расстояние от текста до линии */	
+
+}
+
+.menu_item{
+	 list-style-type: none;
+}
